@@ -1,2 +1,3 @@
 Flow kdhttps.co.basci
      Basepath ""
+Log "@info userinfo"
