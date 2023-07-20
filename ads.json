@@ -40,5 +40,19 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "four": {
+        "projectName": "four",
+        "description": "four",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "MIT",
+        "lastUpdated": "1689854760408",
+        "tags": [
+            "openid-connect"
+        ]
     }
 }
