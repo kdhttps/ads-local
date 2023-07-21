@@ -62,9 +62,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 263,
@@ -99,7 +100,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -119,7 +126,9 @@
 					"displayName": "basic",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"flowname": "kdhttps.co.basci"
+					"flowname": "kdhttps.co.basci",
+					"nodeIcon": "material-symbols:line-start-square",
+					"configs": "conf"
 				},
 				"skake": false
 			},
@@ -127,7 +136,7 @@
 				"x": 63,
 				"y": 102
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 63,
 				"y": 102
