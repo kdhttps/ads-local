@@ -11,7 +11,12 @@
         "lastUpdated": "1689737184020",
         "tags": [
             "openid-connect"
-        ]
+        ],
+        "configs": {
+            "kdhttps.co.basci": {
+                "test": "test"
+            }
+        }
     },
     "second": {
         "projectName": "second",
