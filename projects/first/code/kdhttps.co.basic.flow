@@ -1,6 +1,7 @@
 Flow kdhttps.co.basic
      Basepath ""
 Log "@info d"
-When (obj > 1) is true
-     Log "@debug cond true"
-Log "@info user"
+obj = Call java#paserInt 
+Log "@info user log"
+obj = Call java#parseInt creds
+Log "@debug user info"
