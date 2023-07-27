@@ -3,5 +3,7 @@ Flow kdhttps.co.basic
 Log "@info d"
 obj = Call java#paserInt 
 Log "@info user log"
+When obj is true
+     Log "@info matched"
 obj = Call java#parseInt creds
 Log "@debug user info"
