@@ -1,9 +1,5 @@
 Flow kdhttps.co.basic
      Basepath ""
 Log "@info d"
-obj = Call java#paserInt 
-Log "@info user log"
-When obj is true
-     Log "@info matched"
-obj = Call java#parseInt creds
-Log "@debug user info"
+it = { success: false,  error: "User entered a wrong password 3 times" }
+Finish it
