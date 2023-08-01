@@ -59,5 +59,19 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "six": {
+        "projectName": "six",
+        "description": "six",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "MIT",
+        "lastUpdated": "1690896551916",
+        "tags": [
+            "openid-connect"
+        ]
     }
 }
