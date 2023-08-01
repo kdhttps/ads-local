@@ -1,2 +1,9 @@
 Flow kdhttps.co.first
      Basepath ""
+Log "@info user info 1"
+When obj is true
+     Finish false
+Log "@info user info 2"
+When obj is true
+     Finish false
+Log "@info user info 3"
