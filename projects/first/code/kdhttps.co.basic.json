@@ -65,7 +65,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 773,
@@ -139,7 +140,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -186,9 +188,10 @@
 				"handles": [
 					"Agama-when-Node-1c595d38-fb82-4b92-b46b-eb39c3e7828d.FAILURE",
 					"Agama-when-Node-1c595d38-fb82-4b92-b46b-eb39c3e7828d.SUCCESS"
-				]
+				],
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 1422.2435816554812,
 				"y": 192.1002333943461
@@ -368,6 +371,11 @@
 							"variableTypeCheck": false,
 							"assignmentExpression": "{ success: false,  error: \"User entered a wrong password 3 times\" }",
 							"assignedVariableName": "it"
+						},
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "test",
+							"assignedVariableName": "ti"
 						}
 					],
 					"callType": "Call static method",
@@ -393,7 +401,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 460,
@@ -439,7 +447,8 @@
 				"handles": [
 					"Agama-when-Node-83b14dd9-940a-469b-9098-3574699f95bb.FAILURE",
 					"Agama-when-Node-83b14dd9-940a-469b-9098-3574699f95bb.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -509,7 +518,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -789,8 +799,8 @@
 		}
 	],
 	"viewport": {
-		"x": -29.50185428136416,
-		"y": 5.228356978813821,
-		"zoom": 0.6779929219855441
+		"x": 50.19500732421875,
+		"y": 125.5,
+		"zoom": 0.5
 	}
 }
