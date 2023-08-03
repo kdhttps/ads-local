@@ -59,5 +59,19 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "test space": {
+        "projectName": "test space",
+        "description": "test",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "MIT",
+        "lastUpdated": "1691052435100",
+        "tags": [
+            "openid-connect"
+        ]
     }
 }
