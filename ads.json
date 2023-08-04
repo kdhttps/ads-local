@@ -73,5 +73,19 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "test-dash": {
+        "projectName": "test-dash",
+        "description": "dash",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "MIT",
+        "lastUpdated": "1691119955021",
+        "tags": [
+            "openid-connect"
+        ]
     }
 }
