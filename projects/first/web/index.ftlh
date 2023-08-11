@@ -13,11 +13,7 @@
 		</p></div><form method="post" class="my-8"><div class="relative mb-2"><input type="text" id="email" autofocus class="w-full rounded px-3 border border-gray-300 pt-5 pb-2 focus:border-green-700 focus:ring-1 focus:ring-green-700 focus:outline-none input active:outline-none"/><label for="email" class="label absolute mt-2 ml-3 leading-tighter text-gray-600 text-base cursor-text">Email or phone</label></div><div class="space-y-9"><div><a href="#" class="text-sm font-bold text-green-500">Forgot email?</a></div><div class="text-sm"><p>Not your computer? Use Guest mode to sign in privately.
 			</p><a href="#" class="font-bold text-green-500">Learn more</a></div><div class="text-sm flex justify-between items-center"><a href="#" class="font-bold text-green-500 py-2 px-2 rounded -ml-2 hover:bg-green-50 hover:text-green-700">Create account</a><button type="submit" class="py-2 px-6 rounded text-white btn bg-green-500 hover:bg-green-600">Next</button></div></div></form></div></div></body><script src="login.js"></script><script src="./login.js"></script><script src="./web/login.js"></script><script>
   function hello() {
-  	return "hello"
-  }
-</script><script src="login.js"></script><script src="./login.js"></script><script src="./web/login.js"></script><script>
-  function hello() {
-  	return "hello"
+	return "hello"
   }
 </script>
           </html>
