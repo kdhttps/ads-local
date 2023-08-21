@@ -1,2 +1,3 @@
 Flow kdhttps.co.basic
      Basepath ""
+Log "@info user info"
