@@ -27,8 +27,6 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": [
-            "basic"
-        ]
+        "noDirectLaunch": []
     }
 }
