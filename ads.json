@@ -28,7 +28,8 @@
             "openid-connect"
         ],
         "noDirectLaunch": [
-            "first"
+            "first",
+            "basic"
         ]
     }
 }
