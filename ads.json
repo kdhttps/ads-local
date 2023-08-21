@@ -1,1 +1,17 @@
-{}
+{
+    "first": {
+        "projectName": "first",
+        "description": "first",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "MIT",
+        "lastUpdated": "1692627285402",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
+    }
+}
