@@ -93,7 +93,7 @@
 					"hasFailure": false,
 					"hasRepeat": false,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": false,
+					"isTopLevelFlow": true,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
@@ -135,7 +135,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
