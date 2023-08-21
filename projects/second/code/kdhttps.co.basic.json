@@ -82,8 +82,8 @@
 				"id": "Agama-start-Flow-a59fb696-5e21-4c42-bb2e-6fb7ce537e6d",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 30,
-					"y": 30
+					"x": 53,
+					"y": 108
 				},
 				"inRepeatBlock": false,
 				"agamaData": {
@@ -93,7 +93,7 @@
 					"hasFailure": false,
 					"hasRepeat": false,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": true,
+					"isTopLevelFlow": false,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
@@ -132,14 +132,14 @@
 				"skake": false
 			},
 			"position": {
-				"x": 30,
-				"y": 30
+				"x": 53,
+				"y": 108
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 30,
-				"y": 30
+				"x": 53,
+				"y": 108
 			}
 		}
 	],
@@ -163,8 +163,8 @@
 		}
 	],
 	"viewport": {
-		"x": 74,
-		"y": 66,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
