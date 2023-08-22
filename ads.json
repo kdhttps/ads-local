@@ -29,7 +29,8 @@
         ],
         "noDirectLaunch": [
             "first",
-            "basic"
+            "basic",
+            "kdhttps.co.basic"
         ]
     }
 }
