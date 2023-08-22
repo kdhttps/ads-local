@@ -5,8 +5,8 @@
 			"height": 121,
 			"id": "Agama-log-Node-de5fd09c-c204-436b-9c27-40eefe8ca678",
 			"position": {
-				"x": 230,
-				"y": 30
+				"x": 443,
+				"y": 185
 			},
 			"type": "log",
 			"data": {
@@ -16,8 +16,8 @@
 				"whenCondition": "",
 				"inRepeatBlock": false,
 				"position": {
-					"x": 230,
-					"y": 30
+					"x": 443,
+					"y": 185
 				},
 				"agamaData": {
 					"id": "Agama-log-Node-de5fd09c-c204-436b-9c27-40eefe8ca678",
@@ -68,8 +68,8 @@
 			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 230,
-				"y": 30
+				"x": 443,
+				"y": 185
 			}
 		},
 		{
@@ -93,7 +93,7 @@
 					"hasFailure": false,
 					"hasRepeat": false,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": false,
+					"isTopLevelFlow": true,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
