@@ -1,5 +1,0 @@
-Flow kdhttps.co.basic
-     Basepath ""
-Log "@info user info"
-it_iezar = {success:true,data:{userId:"as9233Qz"}}
-Finish it_iezar
