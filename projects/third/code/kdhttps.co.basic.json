@@ -52,7 +52,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{\"success\":true,\"data\":{\"userId\":\"as9233Qz\"}}",
+					"returnVariable": "{\"success\":\"true\",\"data\":{\"userId\":\"as9233Qz\"}}",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -64,7 +64,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": true,
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
@@ -136,7 +137,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
