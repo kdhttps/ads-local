@@ -52,7 +52,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{\"success\":\"true\",\"data\":{\"userId\":\"as9233Qz\"}}",
+					"returnVariable": "{success:true,data:{userId:\"as9233Qz\"}}",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
