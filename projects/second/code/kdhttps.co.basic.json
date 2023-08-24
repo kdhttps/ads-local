@@ -52,7 +52,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{ success: true, data: {  userId: \"as9233Qz\" } }",
+					"returnVariable": "{ nonsense: [null] }",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -62,11 +62,11 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"finishMode": "withSuccess",
+					"finishMode": "withCrash",
 					"hasExtraData": true,
 					"nodeIcon": "material-symbols:line-end-square-rounded"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
