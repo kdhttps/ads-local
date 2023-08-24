@@ -68,7 +68,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 749,
@@ -168,7 +168,7 @@
 					"hasFailure": false,
 					"hasRepeat": false,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": false,
+					"isTopLevelFlow": true,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
@@ -210,7 +210,7 @@
 				"x": 53,
 				"y": 108
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 53,
