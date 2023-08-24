@@ -1,5 +1,5 @@
 Flow kdhttps.co.basic
      Basepath ""
 Log "@info user info"
-it_ndlbn = { nonsense: [null] }
-Finish it_ndlbn.nonsense
+it_wsunm = { success: true, data: { useId: "as9233Qz" } }
+Finish it_wsunm
