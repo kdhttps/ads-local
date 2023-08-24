@@ -63,10 +63,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"finishMode": "withSuccess",
-					"hasExtraData": false,
+					"hasExtraData": true,
 					"nodeIcon": "material-symbols:line-end-square-rounded"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
