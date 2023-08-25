@@ -1,4 +1,7 @@
 Flow kdhttps.co.basic
      Basepath ""
+     Timeout 100 seconds
+     Configs conf
+     Inputs saluation
 Log "@info fd"
-Finish { success: true, data: { userId: "as9233Qz" } }
+Finish true
