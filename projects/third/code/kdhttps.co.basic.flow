@@ -1,5 +1,4 @@
 Flow kdhttps.co.basic
      Basepath ""
 Log "@info fd"
-it_luhap = { success: true, data: { userId: "as9233Qz" } }
-Finish it_luhap
+Finish { success: true, data: { userId: "as9233Qz" } }
