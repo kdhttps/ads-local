@@ -52,7 +52,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{ success: true, data: { userId: \"as9233Qz\" } }",
+					"returnVariable": "true",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -66,7 +66,7 @@
 					"hasExtraData": true,
 					"nodeIcon": "material-symbols:line-end-square-rounded"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": false,
 			"dragging": false,
@@ -204,7 +204,11 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"flowname": "kdhttps.co.basic",
-					"nodeIcon": "material-symbols:line-start-square"
+					"nodeIcon": "material-symbols:line-start-square",
+					"timeout": "100",
+					"inputs": "saluation",
+					"configs": "conf",
+					"configParams": "{\n  \"client_id\": \"test\"\n}"
 				},
 				"skake": false
 			},
