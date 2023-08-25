@@ -65,7 +65,8 @@
 					"finishMode": "withSuccess",
 					"hasExtraData": true,
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -137,9 +138,10 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 288,
@@ -174,7 +176,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -195,7 +203,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"flowname": "kdhttps.co.basic"
+					"flowname": "kdhttps.co.basic",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": false
 			},
@@ -203,7 +212,7 @@
 				"x": 88,
 				"y": 140
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 88,
 				"y": 140
