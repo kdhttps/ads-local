@@ -47,7 +47,9 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "kdhttps.co.basic": {}
+            "kdhttps.co.basic": {
+                "client_id": "test"
+            }
         }
     }
 }
