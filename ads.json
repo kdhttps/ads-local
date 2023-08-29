@@ -49,7 +49,8 @@
         "configs": {
             "kdhttps.co.basic": {
                 "client_id": "test"
-            }
+            },
+            "kdhttps.co.first": {}
         }
     }
 }
