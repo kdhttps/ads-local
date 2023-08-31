@@ -12,7 +12,10 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "kdhttps.co.basic": {}
+        }
     },
     "second": {
         "projectName": "second",
