@@ -35,7 +35,10 @@
         "noDirectLaunch": [
             "first",
             "basic"
-        ]
+        ],
+        "configs": {
+            "kdhttps.co_s.com": {}
+        }
     },
     "third": {
         "projectName": "third",
