@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "kdhttps.co.basic": {}
+            "kdhttps.co.basic": {},
+            "kdhttps.co-as.oc": {}
         }
     },
     "second": {
