@@ -1,7 +1,0 @@
-Flow kdhttps.co.basic
-     Basepath ""
-     Timeout 100 seconds
-     Configs conf
-     Inputs saluation
-Log "@info fd"
-Finish true
