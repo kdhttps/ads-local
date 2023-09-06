@@ -16,7 +16,8 @@
         "configs": {
             "kdhttps.co.basic": {},
             "kdhttps.co-as.oc": {},
-            "kdhttps.co_s.co": {}
+            "kdhttps.co_s.co": {},
+            "co.basic": {}
         }
     },
     "second": {
