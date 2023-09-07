@@ -40,7 +40,8 @@
         "configs": {
             "kdhttps.co.basic": {
                 "key": "rerer"
-            }
+            },
+            "kdhttps.co.first": {}
         }
     }
 }
