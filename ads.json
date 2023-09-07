@@ -38,9 +38,6 @@
             "basic"
         ],
         "configs": {
-            "kdhttps.co_s.com": {
-                "secret": "dds"
-            },
             "kdhttps.co.basic": {
                 "key": "rerer"
             }
