@@ -1,8 +1,0 @@
-// 
-Flow kdhttps.co_s.com
-     Basepath ""
-// 
-Log "@info sds"
-// 
-it_gdlyn = { success: false, error: "Your error message here" }
-Finish it_gdlyn
