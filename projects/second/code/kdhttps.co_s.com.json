@@ -70,7 +70,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 464,
@@ -162,8 +162,8 @@
 				"id": "Agama-start-Flow-cd8d6f24-3eaf-4ece-8e17-3ba6176641f3",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 64,
-					"y": 82
+					"x": 65,
+					"y": 128
 				},
 				"inRepeatBlock": false,
 				"agamaData": {
@@ -181,7 +181,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -202,20 +208,21 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}",
-					"flowname": "kdhttps.co_s.com"
+					"configParams": "{\n  \"secret\": \"dds\"\n}",
+					"flowname": "kdhttps.co_s.com",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": false
 			},
 			"position": {
-				"x": 64,
-				"y": 82
+				"x": 65,
+				"y": 128
 			},
 			"positionAbsolute": {
-				"x": 64,
-				"y": 82
+				"x": 65,
+				"y": 128
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false
 		}
 	],
