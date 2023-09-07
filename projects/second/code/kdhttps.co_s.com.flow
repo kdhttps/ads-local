@@ -4,4 +4,5 @@ Flow kdhttps.co_s.com
 // 
 Log "@info sds"
 // 
-Finish { success: true, data: { userId: "as9233Qz" } }
+it_gdlyn = { success: false, error: "Your error message here" }
+Finish it_gdlyn
