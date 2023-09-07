@@ -1,5 +1,7 @@
+// 
 Flow kdhttps.co_s.com
      Basepath ""
+// 
 Log "@info sds"
-it_kdrkt = { success: true, data: { userId: "as9233Qz" } }
-Finish it_kdrkt
+// 
+Finish { success: true, data: { userId: "as9233Qz" } }
