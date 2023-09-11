@@ -2,7 +2,7 @@
 	"nodes": [
 		{
 			"width": 170,
-			"height": 121,
+			"height": 122,
 			"id": "Agama-log-Node-76afc3b6-6fc3-4247-ae15-49046058ee7e",
 			"position": {
 				"x": 314,
@@ -45,7 +45,7 @@
 					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "\"sss\"",
+					"logMessage": "\"sss",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -66,7 +66,8 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
 					"flowname": "co.second"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"positionAbsolute": {
@@ -77,7 +78,7 @@
 		},
 		{
 			"width": 170,
-			"height": 121,
+			"height": 122,
 			"id": "Agama-start-Flow-4154876a-c390-4a6f-98a9-2d7b504d71b9",
 			"type": "start",
 			"sourcePosition": "right",
