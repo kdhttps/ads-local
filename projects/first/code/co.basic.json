@@ -61,7 +61,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -131,7 +132,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -199,8 +201,10 @@
 					"assignCallbackResult": "",
 					"displayName": "",
 					"nodeColor": "",
-					"exceptionVariableField": ""
-				}
+					"exceptionVariableField": "",
+					"flowname": "co.basic"
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -279,7 +283,8 @@
 							"assignedVariableName": "authResult.uid"
 						}
 					]
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -350,7 +355,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authResult.success"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -421,7 +427,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "creds"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -488,7 +495,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -564,7 +572,8 @@
 							"assignedVariableName": "authResult"
 						}
 					]
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -632,7 +641,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "cdiUtil"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -700,7 +710,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authService"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -758,7 +769,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"flowname": "co.basic"
-				}
+				},
+				"skake": false
 			},
 			"position": {
 				"x": 30,
@@ -948,8 +960,8 @@
 		}
 	],
 	"viewport": {
-		"x": 156,
-		"y": -186,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
