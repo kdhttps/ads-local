@@ -142,7 +142,7 @@
 				"x": 96,
 				"y": 155
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 96,
 				"y": 155
@@ -170,8 +170,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": 37,
+		"y": 22,
 		"zoom": 1
 	}
 }
