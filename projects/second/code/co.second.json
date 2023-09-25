@@ -2,7 +2,7 @@
 	"nodes": [
 		{
 			"width": 170,
-			"height": 122,
+			"height": 121,
 			"id": "Agama-log-Node-76afc3b6-6fc3-4247-ae15-49046058ee7e",
 			"position": {
 				"x": 314,
@@ -45,7 +45,7 @@
 					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "\"sss",
+					"logMessage": "\"sss\"",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -78,7 +78,7 @@
 		},
 		{
 			"width": 170,
-			"height": 122,
+			"height": 121,
 			"id": "Agama-start-Flow-4154876a-c390-4a6f-98a9-2d7b504d71b9",
 			"type": "start",
 			"sourcePosition": "right",
@@ -105,7 +105,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -126,8 +132,9 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}",
-					"flowname": "co.second"
+					"configParams": "{\n  \"id\":\"diskjcndjsf3dsxxwdffd\"\n}",
+					"flowname": "co.second",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": false
 			},
