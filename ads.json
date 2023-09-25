@@ -33,20 +33,5 @@
             "openid-connect"
         ],
         "noDirectLaunch": []
-    },
-    "third": {
-        "projectName": "third",
-        "description": "third",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/kdhttps/ads-local",
-        "githubUri": "https://github.com/kdhttps/ads-local",
-        "license": "MIT",
-        "lastUpdated": "1695645744798",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": []
     }
 }
