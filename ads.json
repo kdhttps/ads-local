@@ -18,28 +18,5 @@
             "kdhttps.co-as.oc": {},
             "kdhttps.co_s.co": {}
         }
-    },
-    "second": {
-        "projectName": "second",
-        "description": "second",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.2",
-        "authorWebsite": "https://github.com/kdhttps/ads-local",
-        "githubUri": "https://github.com/kdhttps/ads-local",
-        "license": "MIT",
-        "lastUpdated": "1692634324940",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": [
-            "first",
-            "basic"
-        ],
-        "configs": {
-            "kdhttps.co.first": {
-                "co.first": "co-frist id"
-            }
-        }
     }
 }
