@@ -34,8 +34,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.second": {
-                "co.second.secret": "secret-second"
+            "co.third": {
+                "co.third.secret": "secret-third"
             }
         }
     }
