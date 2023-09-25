@@ -32,6 +32,9 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "co.fiirst": {}
+        }
     }
 }
