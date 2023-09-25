@@ -36,6 +36,9 @@
         "configs": {
             "co.third": {
                 "co.third.secret": "secret-third"
+            },
+            "co.second": {
+                "co.second.secret": "secret-second"
             }
         }
     }
