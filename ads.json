@@ -37,11 +37,9 @@
             "basic"
         ],
         "configs": {
-            "kdhttps.co.basic": {
-                "key": "rerer"
-            },
-            "kdhttps.co.first": {},
-            "co.second": {}
+            "co.second": {
+                "id": "diskjcndjsf3dsxxwdffd"
+            }
         }
     }
 }
