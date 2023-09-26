@@ -32,11 +32,14 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": "co.second",
+        "noDirectLaunch": "co.four",
         "configs": {
             "co.first": {},
             "co.second": {
                 "co.second": "second-secret"
+            },
+            "co.four": {
+                "co.four": "four-secret"
             }
         }
     }
