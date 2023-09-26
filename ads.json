@@ -33,6 +33,8 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.first": {}
+        }
     }
 }
