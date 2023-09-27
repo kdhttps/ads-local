@@ -12,35 +12,40 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": [],
-        "configs": {
-            "kdhttps.co.basic": {},
-            "kdhttps.co-as.oc": {},
-            "kdhttps.co_s.co": {}
-        }
+        "noDirectLaunch": []
     },
     "second": {
         "projectName": "second",
         "description": "second",
         "type": "community",
         "author": "kdhttps",
+        "version": "0.0.3",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "MIT",
+        "lastUpdated": "1692634324940",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [
+            "first",
+            "basic",
+            "kdhttps.co.basic"
+        ]
+    },
+    "third": {
+        "projectName": "third",
+        "description": "third",
+        "type": "community",
+        "author": "kdhttps",
         "version": "0.0.1",
         "authorWebsite": "https://github.com/kdhttps/ads-local",
         "githubUri": "https://github.com/kdhttps/ads-local",
         "license": "MIT",
-        "lastUpdated": "1695739188996",
+        "lastUpdated": "1692721859852",
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": "co.four",
-        "configs": {
-            "co.first": {},
-            "co.second": {
-                "co.second": "second-secret"
-            },
-            "co.four": {
-                "co.four": "four-secret"
-            }
-        }
+        "noDirectLaunch": []
     }
 }
