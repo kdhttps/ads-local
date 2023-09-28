@@ -27,10 +27,15 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": [],
+        "noDirectLaunch": [
+            "co.second"
+        ],
         "configs": {
             "co.first": {
                 "co.first.secret": "first-secret"
+            },
+            "co.second": {
+                "co.second.secret": "secret"
             }
         }
     }
