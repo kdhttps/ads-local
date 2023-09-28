@@ -65,7 +65,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -130,7 +131,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{\n  \"co.first\": \"secret\"\n}",
+					"configParams": "{\n  \"co.first.secret\": \"first-secret\"\n}",
 					"flowname": "co.first",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
