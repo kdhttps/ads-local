@@ -35,7 +35,7 @@
                 "co.first.secret": "first-secret"
             },
             "co.second": {
-                "co.second.secret": "secret"
+                "co.second.secret": "second-secret"
             }
         }
     }
