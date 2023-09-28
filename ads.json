@@ -30,7 +30,7 @@
         "noDirectLaunch": [],
         "configs": {
             "co.first": {
-                "co.first": "secret"
+                "co.first.secret": "first-secret"
             }
         }
     }
