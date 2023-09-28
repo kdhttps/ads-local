@@ -1,2 +1,3 @@
 Flow co.second
      Basepath ""
+Log "@info second"
