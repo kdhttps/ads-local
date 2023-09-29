@@ -1,3 +1,5 @@
 Flow co.first
      Basepath ""
 Log "@info " good
+it_szbmy = { success: true, data: { userId: "as9233Qz" } }
+Finish it_szbmy
