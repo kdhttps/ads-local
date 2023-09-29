@@ -67,7 +67,8 @@
 					"nodeIcon": "fluent-mdl2:trigger-approval",
 					"flowFileName": "co.second",
 					"asssignedVariableName": "obj"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
