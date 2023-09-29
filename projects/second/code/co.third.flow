@@ -1,3 +1,4 @@
 Flow co.third
      Basepath ""
 Log "@info third"
+obj = Trigger co.second 
