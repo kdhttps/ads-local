@@ -43,6 +43,9 @@
             },
             "co.third": {
                 "co.third.secret": "third-secret"
+            },
+            "co.first": {
+                "co.first.secret": "first-secret"
             }
         }
     }
