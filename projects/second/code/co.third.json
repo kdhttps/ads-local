@@ -53,7 +53,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": true,
+					"returnVariable": "{ success: true, data: { userId: \"xxxxx\" } }",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -63,10 +63,11 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"hasExtraData": false,
+					"hasExtraData": true,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
