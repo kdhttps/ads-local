@@ -40,6 +40,9 @@
             },
             "kdhttps.straight.co.third": {
                 "co.third.secret": "third-secret"
+            },
+            "co.third": {
+                "co.third.secret": "third-secret"
             }
         }
     }
