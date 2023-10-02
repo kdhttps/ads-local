@@ -19,7 +19,7 @@
         "description": "second",
         "type": "community",
         "author": "kdhttps",
-        "version": "0.0.14",
+        "version": "0.0.15",
         "authorWebsite": "https://github.com/kdhttps/ads-local",
         "githubUri": "https://github.com/kdhttps/ads-local",
         "license": "MIT",
@@ -41,10 +41,10 @@
             "kdhttps.straight.co.third": {
                 "co.third.secret": "third-secret"
             },
-            "co.third": {
+            "kdhttps.logical.co.third": {
                 "co.third.secret": "third-secret"
             },
-            "co.first": {
+            "kdhttps.logical.co.first": {
                 "co.first.secret": "first-secret"
             }
         }
