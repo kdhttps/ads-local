@@ -14,5 +14,21 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
+    },
+    "second": {
+        "projectName": "second",
+        "description": "second",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "apache-2.0",
+        "lastUpdated": "1699527265874",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
