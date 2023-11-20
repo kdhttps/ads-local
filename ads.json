@@ -13,7 +13,10 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.basic": {}
+        },
+        "name": "first"
     },
     "second": {
         "projectName": "second",
