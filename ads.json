@@ -13,9 +13,7 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "co.basic": {}
-        },
+        "configs": {},
         "name": "first"
     },
     "second": {
