@@ -5,7 +5,7 @@
 			  Password
 			</label><input type="password" id="password" name="password" autofocus="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2 focus:border-green-700"></div><div class="space-y-9"><div class="text-sm flex justify-center items-center"><button type="submit" class="py-2 px-6 rounded text-white btn bg-green-500 hover:bg-green-600">
 				Submit
-			  </button></div></div></form></div></div></body><style>* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}</style><script>
+			  </button></div></div></form></div></div></body><style>* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:red;}</style><script>
       function handleFormValidation() {
         var username = document.getElementById('username').value
         if (username === '') {
