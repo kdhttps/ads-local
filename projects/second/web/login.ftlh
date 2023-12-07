@@ -21,7 +21,7 @@
 	  }
 	  var password = document.getElementById('password').value
 	  if (password === '') {
-		alert('Password is required')
+		alert('Password is required.......')
 		return false
 	  }
 	  return true
