@@ -8,14 +8,10 @@
 			  Username...
 			</label><input type="text" id="username" name="username" autofocus="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2 focus:border-green-700"></div><div class="relative mb-2"><label for="password" class="label mt-2 ml-1 leading-tighter text-gray-600 text-base cursor-text">
 			  Password
-			</label><input type="password" id="password" name="password" autofocus="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2 focus:border-green-700"></div><div class="space-y-9"><div class="text-sm flex justify-center items-center"><button type="submit" class="py-2 px-6 rounded text-white">
+			</label><input type="password" id="password" name="password" autofocus="" class="w-full rounded px-3 border border-gray-300 pt-2 pb-2 focus:border-green-700"></div><div class="space-y-9"><div class="text-sm flex justify-center items-center"><button type="submit" class="py-2 px-6 rounded text-white btn bg-green-500 hover:bg-green-600">
 				Submit
 			  </button></div></div></form></div></div></body>
-<style>
-	button {
-		color: red;
-	}
-  </style>
+
 <script>
 	function handleFormValidation() {
 	  var username = document.getElementById('username').value
