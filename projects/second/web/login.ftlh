@@ -19,6 +19,9 @@
 	  margin-left:0px;
 	  background-color:red;
 	}
+	label {
+	  color: green;
+	}
   </style>
 <script>
 	function handleFormValidation() {
