@@ -1,0 +1,40 @@
+{
+    "first": {
+        "projectName": "first",
+        "description": "first",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.11",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "apache-2.0",
+        "lastUpdated": "1699527225205",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {
+            "kdhttps.tunneling.co.basic": {}
+        },
+        "name": "first"
+    },
+    "second": {
+        "projectName": "second",
+        "description": "second",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "apache-2.0",
+        "lastUpdated": "1699527265874",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {
+            "co.basic": {}
+        },
+        "name": "second"
+    }
+}
