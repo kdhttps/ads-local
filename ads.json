@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "kdhttps.tunneling.co.basic": {}
+            "kdhttps.tunneling.co.basic": {},
+            "co.first": {}
         },
         "name": "first"
     },
