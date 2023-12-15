@@ -1,3 +1,5 @@
 Flow co.basic
      Basepath ""
 Log "@info info"
+it_ujnom = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
+Finish it_ujnom
