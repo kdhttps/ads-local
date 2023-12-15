@@ -5,8 +5,8 @@
 			"height": 121,
 			"id": "finish-f0d45854-744c-45a7-a0ba-cedfe7d85335",
 			"position": {
-				"x": 551,
-				"y": 139
+				"x": 593,
+				"y": 163
 			},
 			"type": "finish",
 			"data": {
@@ -17,8 +17,8 @@
 				"inRepeatBlock": false,
 				"handles": [],
 				"position": {
-					"x": 551,
-					"y": 139
+					"x": 593,
+					"y": 163
 				},
 				"agamaData": {
 					"id": "finish-f0d45854-744c-45a7-a0ba-cedfe7d85335",
@@ -29,16 +29,17 @@
 					"hasComment": true,
 					"comment": "",
 					"flowfilename": "",
-					"returnVariable": "{ userId: \"as9233Qz\", property1: \"value1\"}",
-					"finishMode": "withSuccess",
+					"returnVariable": "Your error message here",
+					"finishMode": "withFailure",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 551,
-				"y": 139
+				"x": 593,
+				"y": 163
 			}
 		},
 		{
@@ -47,7 +48,7 @@
 			"id": "Agama-log-Node-6f572ef7-b573-4207-8810-98cfd1bbb3a2",
 			"position": {
 				"x": 351,
-				"y": 139
+				"y": 134
 			},
 			"type": "log",
 			"data": {
@@ -58,7 +59,7 @@
 				"inRepeatBlock": false,
 				"position": {
 					"x": 351,
-					"y": 139
+					"y": 134
 				},
 				"agamaData": {
 					"id": "Agama-log-Node-6f572ef7-b573-4207-8810-98cfd1bbb3a2",
@@ -78,7 +79,7 @@
 			"selected": false,
 			"positionAbsolute": {
 				"x": 351,
-				"y": 139
+				"y": 134
 			},
 			"dragging": false
 		},
