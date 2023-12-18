@@ -1,2 +1,10 @@
 Flow co.first
      Basepath ""
+Log "@info info"
+Repeat __________ times max
+     When auth is true
+          Log "@info success"
+     it_xmhck = { success: false, error: "when end" }
+     Finish it_xmhck
+it_fclvg = { success: false, error: "repeat end" }
+Finish it_fclvg
