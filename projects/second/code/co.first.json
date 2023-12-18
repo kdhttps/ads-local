@@ -35,9 +35,10 @@
 					"returnVariable": "{ success: false, error: \"repeat end\" }",
 					"finishMode": "withFailure",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 703,
@@ -79,7 +80,8 @@
 					"returnVariable": "{ success: false, error: \"when end\" }",
 					"finishMode": "withFailure",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -119,7 +121,8 @@
 					"logMessage": "\"success\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -163,7 +166,8 @@
 				"handles": [
 					"Agama-when-Node-da3a4c57-1e1c-47b0-a9df-15a05fefc1e1.FAILURE",
 					"Agama-when-Node-da3a4c57-1e1c-47b0-a9df-15a05fefc1e1.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -202,11 +206,12 @@
 					"whenCondition": "",
 					"inRepeatBlock": false,
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded",
-					"maxIteration": "",
+					"maxIteration": "3",
 					"maxIterationVariableName": ""
-				}
+				},
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 453,
@@ -244,7 +249,8 @@
 					"logMessage": "\"info\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
