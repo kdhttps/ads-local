@@ -38,5 +38,21 @@
             "co.first": {}
         },
         "name": "first"
+    },
+    "dfdfddddddddddddddddddddd": {
+        "projectName": "dfdfddddddddddddddddddddd",
+        "description": "sdsdsdsd wdsdd",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "apache-2.0",
+        "lastUpdated": "1702988505153",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
