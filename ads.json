@@ -41,5 +41,21 @@
             "co.second": {}
         },
         "name": "first"
+    },
+    "sfsdsdfdsfdfdfdfdfdfdfdfdfdfdsfsdsdfdsfdfdfdfd": {
+        "projectName": "sfsdsdfdsfdfdfdfdfdfdfdfdfdfdsfsdsdfdsfdfdfdfd",
+        "description": "tes",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-local",
+        "githubUri": "https://github.com/kdhttps/ads-local",
+        "license": "apache-2.0",
+        "lastUpdated": "1703130229212",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
