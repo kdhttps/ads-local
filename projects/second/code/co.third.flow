@@ -1,2 +1,4 @@
 Flow co.third
      Basepath ""
+Log "@info " info1
+Log "@info " info2
