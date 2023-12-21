@@ -16,7 +16,8 @@
         "configs": {
             "co.basic": {},
             "co.first": {},
-            "co.second": {}
+            "co.second": {},
+            "co.third": {}
         },
         "name": "second"
     },
