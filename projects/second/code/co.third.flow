@@ -1,4 +1,7 @@
 Flow co.third
      Basepath ""
 Log "@info " info1
-Log "@info " info2
+Repeat 3 times max
+     Log "@info " info2
+it_kdjhf = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
+Finish it_kdjhf
