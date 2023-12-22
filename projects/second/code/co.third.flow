@@ -1,7 +1,16 @@
-Flow co.third
+Flow co.basic
      Basepath ""
-Log "@info " info1
+authService = Call io.jans.as.server.service.AuthenticationService#class 
+cdiUtil = Call io.jans.service.cdi.util.CdiUtil#bean authService
+authResult = {}
 Repeat 3 times max
-     Log "@info " info2
-it_kdjhf = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
-Finish it_kdjhf
+     creds = RRF "login.ftlh" authResult
+     authResult.success = Call cdiUtil authenticate creds.username creds.password
+     authResult.uid = creds.username
+     When authResult.success is true
+          // return success true with user id
+          it_seqve = undefined
+          Finish it_seqve
+// Auth failed after 3 retries, end flow returning false
+it_jblxb = {success:false, error: "{ success: false, error: "Your error message here" }"}
+Finish it_jblxb
