@@ -17,7 +17,7 @@ Repeat 3 times max
      authResult.uid = creds.username
      // authResult.success is true
      When authResult.success is true
-          it_lsanf = undefined
-          Finish it_lsanf
-it_ydsrd = {success:false, error: "false"}
-Finish it_ydsrd
+          it_mizkh = undefined
+          Finish it_mizkh
+it_roooe = {success:false, error: "false"}
+Finish it_roooe
