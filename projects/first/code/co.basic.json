@@ -2,7 +2,7 @@
 	"nodes": [
 		{
 			"width": 170,
-			"height": 121,
+			"height": 124,
 			"id": "Agama-log-Node-4d2ff003-ba1a-4eae-b2b5-b1974d296166",
 			"position": {
 				"x": 827,
@@ -31,7 +31,8 @@
 					"logMessage": "info3",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -42,7 +43,7 @@
 		},
 		{
 			"width": 170,
-			"height": 121,
+			"height": 124,
 			"id": "Agama-log-Node-0caf6c33-0e04-4d91-8b59-a63b39a8a1a6",
 			"position": {
 				"x": 594,
@@ -71,9 +72,10 @@
 					"logMessage": "info2",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 594,
 				"y": 172
@@ -82,7 +84,7 @@
 		},
 		{
 			"width": 170,
-			"height": 121,
+			"height": 124,
 			"id": "Agama-log-Node-6f572ef7-b573-4207-8810-98cfd1bbb3a2",
 			"position": {
 				"x": 351,
@@ -127,7 +129,7 @@
 		},
 		{
 			"width": 170,
-			"height": 121,
+			"height": 124,
 			"id": "Agama-start-Flow-56f3a5f3-d3f9-49e5-8d24-76145c36f296",
 			"type": "start",
 			"sourcePosition": "right",
