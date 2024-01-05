@@ -194,7 +194,8 @@
 					"conditionInputField": "is",
 					"valueField": "true",
 					"comment": "authResult.success is true",
-					"hasComment": true
+					"hasComment": true,
+					"inRepeatBlock": true
 				},
 				"handles": [
 					"Agama-when-Node-9cb26c5d-64d4-4f9e-b60f-846c01663919.FAILURE",
@@ -202,7 +203,7 @@
 				],
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 1401.9286835090934,
 				"y": 357.9339255422335
@@ -1077,8 +1078,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": -544,
+		"y": -8,
 		"zoom": 1
 	}
 }
