@@ -30,8 +30,8 @@
 					"inRepeatBlock": true,
 					"assignments": [
 						{
-							"variableTypeCheck": false,
-							"assignmentExpression": "''",
+							"variableTypeCheck": true,
+							"assignmentExpression": "asd",
 							"assignedVariableName": "user"
 						}
 					],
