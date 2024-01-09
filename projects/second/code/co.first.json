@@ -31,12 +31,13 @@
 					"assignments": [
 						{
 							"variableTypeCheck": false,
-							"assignmentExpression": "'",
+							"assignmentExpression": "''",
 							"assignedVariableName": "user"
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
@@ -476,8 +477,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": -149,
+		"y": -274,
 		"zoom": 1
 	}
 }
