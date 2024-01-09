@@ -4,7 +4,8 @@ Log "@info info"
 Repeat 3 times max
      When auth is true
           Log "@info success"
-     it_vmzea = { success: false, error: "when end" }
-     Finish it_vmzea
-it_fbzsb = { success: false, error: "repeat end" }
-Finish it_fbzsb
+          user = '
+     it_ksvda = {success:false, error: "when end"}
+     Finish it_ksvda
+it_mapsy = {success:false, error: "repeat end"}
+Finish it_mapsy
