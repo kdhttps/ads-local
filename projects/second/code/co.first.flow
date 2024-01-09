@@ -4,8 +4,8 @@ Log "@info info"
 Repeat 3 times max
      When auth is true
           Log "@info success"
-          user = ''
-     it_omqkp = {success:false, error: "when end"}
-     Finish it_omqkp
-it_hgiwd = {success:false, error: "repeat end"}
-Finish it_hgiwd
+          user = "asd"
+     it_cleol = {success:false, error: "when end"}
+     Finish it_cleol
+it_fxskc = {success:false, error: "repeat end"}
+Finish it_fxskc
