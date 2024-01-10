@@ -36,8 +36,7 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.basic": {},
-            "co.second": {}
+            "co.basic": {}
         },
         "name": "first"
     }
