@@ -115,7 +115,7 @@
 							"variable": "ask",
 							"operator": "is",
 							"dataValue": "true",
-							"combinator": "none"
+							"combinator": "and"
 						},
 						{
 							"variable": "askA",
@@ -133,7 +133,7 @@
 					"Agama-when-Node-0f45e905-1a93-4907-b438-598cab47745c.FAILURE",
 					"Agama-when-Node-0f45e905-1a93-4907-b438-598cab47745c.SUCCESS"
 				],
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
