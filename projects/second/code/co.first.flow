@@ -1,7 +1,7 @@
 Flow co.first
      Basepath ""
 Log "@info info"
-When ask is true
-     it_fmrbt = {success:false, error: "error"}
-     Finish it_fmrbt
+When ask is trueaskA is true
+     it_aflws = {success:false, error: "error"}
+     Finish it_aflws
 Log "@info sucess"
