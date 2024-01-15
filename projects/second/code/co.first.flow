@@ -1,2 +1,7 @@
 Flow co.first
      Basepath ""
+Log "@info info"
+When ask is true
+     it_fmrbt = {success:false, error: "error"}
+     Finish it_fmrbt
+Log "@info sucess"
