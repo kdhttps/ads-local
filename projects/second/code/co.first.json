@@ -31,9 +31,10 @@
 					"logMessage": "\"sucess\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 741,
@@ -75,7 +76,8 @@
 					"returnVariable": "error",
 					"finishMode": "withFailure",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -90,7 +92,7 @@
 			"id": "Agama-when-Node-0f45e905-1a93-4907-b438-598cab47745c",
 			"position": {
 				"x": 491,
-				"y": 220
+				"y": 230
 			},
 			"parentId": "Agama-log-Node-0ebfd207-2ff9-4eaa-9268-1dfc807c6fb5",
 			"type": "when",
@@ -114,6 +116,12 @@
 							"operator": "is",
 							"dataValue": "true",
 							"combinator": "none"
+						},
+						{
+							"variable": "askA",
+							"operator": "is",
+							"dataValue": "true",
+							"combinator": "none"
 						}
 					],
 					"hasComment": true,
@@ -124,13 +132,14 @@
 				"handles": [
 					"Agama-when-Node-0f45e905-1a93-4907-b438-598cab47745c.FAILURE",
 					"Agama-when-Node-0f45e905-1a93-4907-b438-598cab47745c.SUCCESS"
-				]
+				],
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 491,
-				"y": 220
+				"y": 230
 			}
 		},
 		{
@@ -164,7 +173,8 @@
 					"logMessage": "\"info\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
