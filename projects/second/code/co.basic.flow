@@ -15,9 +15,7 @@ Repeat 3 times max
      authResult.success = Call cdiUtil authenticate creds.username creds.password
      // assign creds.username to authResult.uid
      authResult.uid = creds.username
-     // authResult.success is true
-     When authResult.success is true
-          it_xygcs = {success:true, data: {userId: authResult.uid}}
-          Finish it_xygcs
-it_guzka = {success:false, error: "false"}
-Finish it_guzka
+     When authResult.uid is false and authResult is not false
+          Log "@info " info
+it_rxzgq = {success:false, error: "false"}
+Finish it_rxzgq
