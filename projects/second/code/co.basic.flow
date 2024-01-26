@@ -17,5 +17,5 @@ Repeat 3 times max
      authResult.uid = creds.username
      When authResult.uid is false and authResult is not false
           Log "@info " info
-it_rxzgq = {success:false, error: "false"}
-Finish it_rxzgq
+it_mwant = {success:false, error: "false"}
+Finish it_mwant
