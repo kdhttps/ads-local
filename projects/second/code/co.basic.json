@@ -31,7 +31,8 @@
 					"logMessage": "info",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -84,7 +85,8 @@
 				"handles": [
 					"Agama-when-Node-19844937-9d25-48ce-be50-aaa469b1a3c2.FAILURE",
 					"Agama-when-Node-19844937-9d25-48ce-be50-aaa469b1a3c2.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -1058,8 +1060,8 @@
 		}
 	],
 	"viewport": {
-		"x": -850,
-		"y": -212,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
