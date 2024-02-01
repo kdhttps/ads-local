@@ -33,13 +33,14 @@
 					"logMessage": "\"next block\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 837,
 				"y": 142
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -75,7 +76,8 @@
 					"logMessage": "\"iterate me\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -111,7 +113,7 @@
 					"type": "Agama-iterate-Node",
 					"iterateOn": "seasons",
 					"iterateUsing": "sn",
-					"iterateResult": "",
+					"iterateResult": "sns",
 					"comment": "hello test",
 					"hasComment": true,
 					"inRepeatBlock": false,
@@ -120,9 +122,10 @@
 				"handles": [
 					"Agama-iterate-Node-7875ca87-821e-4041-bda9-8fed4fb02eef.ITERATE_YES",
 					"Agama-iterate-Node-7875ca87-821e-4041-bda9-8fed4fb02eef.ITERATE_NO"
-				]
+				],
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 587,
 				"y": 132
