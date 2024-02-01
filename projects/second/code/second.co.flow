@@ -3,6 +3,6 @@ Flow second.co
 // iterate testing
 Log "@info iterate testing"
 // hello test
-Iterate over seasons using sn
+sns = Iterate over seasons using sn
      Log "@info iterate me"
 Log "@info next block"
