@@ -113,7 +113,7 @@
 					"type": "Agama-iterate-Node",
 					"iterateOn": "seasons",
 					"iterateUsing": "sn",
-					"iterateResult": "sns",
+					"iterateResult": "",
 					"comment": "hello test",
 					"hasComment": true,
 					"inRepeatBlock": false,
