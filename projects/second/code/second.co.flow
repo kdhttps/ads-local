@@ -6,3 +6,6 @@ Log "@info iterate testing"
 Iterate over seasons using sn
      Log "@info iterate me"
 Log "@info next block"
+frr = Iterate over fruits using fr
+     Log "@info second time iterate"
+Log "@info out"
