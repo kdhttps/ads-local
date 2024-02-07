@@ -2,3 +2,4 @@ Flow co.first
      Basepath ""
 // info log
 Log "@info info"
+Call java.lang#parseInt 
