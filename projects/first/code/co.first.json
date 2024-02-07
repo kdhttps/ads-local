@@ -37,7 +37,8 @@
 					"inIterateBlock": false,
 					"arguments": [],
 					"nodeIcon": "material-symbols:code"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"positionAbsolute": {
