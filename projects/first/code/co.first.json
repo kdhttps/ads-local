@@ -5,8 +5,8 @@
 			"height": 124,
 			"id": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
 			"position": {
-				"x": 568,
-				"y": 158
+				"x": 542,
+				"y": 172
 			},
 			"type": "call",
 			"data": {
@@ -17,8 +17,8 @@
 				"inRepeatBlock": false,
 				"inIterateBlock": false,
 				"position": {
-					"x": 568,
-					"y": 158
+					"x": 542,
+					"y": 172
 				},
 				"agamaData": {
 					"id": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
@@ -36,14 +36,15 @@
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
 					"arguments": [],
-					"nodeIcon": "material-symbols:code"
+					"nodeIcon": "material-symbols:code",
+					"asssignedVariableName": "res"
 				},
 				"skake": false
 			},
 			"selected": true,
 			"positionAbsolute": {
-				"x": 568,
-				"y": 158
+				"x": 542,
+				"y": 172
 			},
 			"dragging": false
 		},
