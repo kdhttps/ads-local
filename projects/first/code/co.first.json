@@ -3,6 +3,52 @@
 		{
 			"width": 170,
 			"height": 124,
+			"id": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
+			"position": {
+				"x": 568,
+				"y": 158
+			},
+			"type": "call",
+			"data": {
+				"id": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
+				"type": "Agama-call-Node",
+				"parentId": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
+				"whenCondition": "WhenFalse",
+				"inRepeatBlock": false,
+				"inIterateBlock": false,
+				"position": {
+					"x": 568,
+					"y": 158
+				},
+				"agamaData": {
+					"id": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
+					"parentId": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
+					"type": "Agama-call-Node",
+					"displayName": "",
+					"hasComment": true,
+					"comment": "",
+					"javaClassName": "java.lang",
+					"javaMethodName": "parseInt",
+					"javaVariableName": "",
+					"exceptionVariableField": "",
+					"callType": "Call static method",
+					"whenCondition": "WhenFalse",
+					"inRepeatBlock": false,
+					"inIterateBlock": false,
+					"arguments": [],
+					"nodeIcon": "material-symbols:code"
+				}
+			},
+			"selected": true,
+			"positionAbsolute": {
+				"x": 568,
+				"y": 158
+			},
+			"dragging": false
+		},
+		{
+			"width": 170,
+			"height": 124,
 			"id": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
 			"position": {
 				"x": 281,
@@ -33,9 +79,10 @@
 					"logMessage": "\"info\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 281,
 				"y": 147
@@ -91,6 +138,23 @@
 			"type": "straight",
 			"source": "Agama-start-Flow-72596975-7846-4c0d-a49c-98ba98658c9b",
 			"target": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		},
+		{
+			"id": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419-Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba-d3e08939-d846-4bf9-b4b6-4c2d3b2237aa",
+			"type": "straight",
+			"source": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
+			"target": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
 			"label": "",
 			"labelBgPadding": [
 				8,
