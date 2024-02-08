@@ -36,7 +36,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 742,
@@ -144,8 +144,8 @@
 				"id": "Agama-start-Flow-72596975-7846-4c0d-a49c-98ba98658c9b",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 40,
-					"y": 99
+					"x": 28,
+					"y": 170
 				},
 				"inRepeatBlock": false,
 				"agamaData": {
@@ -166,13 +166,13 @@
 				"skake": false
 			},
 			"position": {
-				"x": 40,
-				"y": 99
+				"x": 28,
+				"y": 170
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
-				"x": 40,
-				"y": 99
+				"x": 28,
+				"y": 170
 			},
 			"dragging": false
 		}
@@ -231,8 +231,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": 88,
+		"y": 38,
 		"zoom": 1
 	}
 }
