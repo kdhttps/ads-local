@@ -3,5 +3,4 @@ Flow co.first
 // info log
 Log "@info info"
 res = Call java.lang#parseInt 
-it_uwzbb = {success:true, data: { userId: "as9233Qz"}}
-Finish it_uwzbb
+Finish res.res
