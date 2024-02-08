@@ -3,3 +3,4 @@ Flow co.first
 // info log
 Log "@info info"
 res = Call java.lang#parseInt 
+Finish res.id
