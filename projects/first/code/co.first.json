@@ -30,13 +30,13 @@
 					"hasComment": true,
 					"comment": "",
 					"flowfilename": "",
-					"returnVariable": "res.id",
-					"finishMode": "withVariable",
+					"returnVariable": "{ userId: \"as9233Qz\"}",
+					"finishMode": "withSuccess",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 742,
@@ -169,7 +169,7 @@
 				"x": 28,
 				"y": 170
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 28,
 				"y": 170
