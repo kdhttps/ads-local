@@ -3,5 +3,5 @@ Flow co.first
 // info log
 Log "@info info"
 res = Call java.lang#parseInt 
-it_wpipu = {success:false, error: "error"}
-Finish it_wpipu
+When sd is sd
+When sd is dsd
