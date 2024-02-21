@@ -1,100 +1,51 @@
 {
 	"nodes": [
 		{
-			"width": 210,
-			"height": 140,
-			"id": "Agama-when-Node-94f63238-d476-4aff-b17a-5cabed5d3e66",
+			"width": 170,
+			"height": 124,
+			"id": "Agama-assignment-Node-fc0ffaca-f370-4afe-bba7-030579184fec",
 			"position": {
-				"x": 1056,
-				"y": 200
+				"x": 742,
+				"y": 172
 			},
-			"parentId": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0",
-			"type": "when",
+			"type": "assignment",
 			"data": {
-				"id": "Agama-when-Node-94f63238-d476-4aff-b17a-5cabed5d3e66",
-				"type": "Agama-when-Node",
-				"parentId": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0",
-				"whenCondition": "WhenFalse",
-				"inRepeatBlock": false,
-				"inIterateBlock": false,
-				"position": {
-					"x": 1056,
-					"y": 195
-				},
-				"agamaData": {
-					"id": "Agama-when-Node-94f63238-d476-4aff-b17a-5cabed5d3e66",
-					"parentId": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0",
-					"type": "Agama-when-Node",
-					"conditions": [
-						{
-							"variable": "sd",
-							"operator": "is",
-							"dataValue": "dsd",
-							"combinator": "none"
-						}
-					],
-					"hasComment": true,
-					"inRepeatBlock": false
-				},
-				"handles": [
-					"Agama-when-Node-94f63238-d476-4aff-b17a-5cabed5d3e66.FAILURE",
-					"Agama-when-Node-94f63238-d476-4aff-b17a-5cabed5d3e66.SUCCESS"
-				]
-			},
-			"selected": true,
-			"dragging": false,
-			"positionAbsolute": {
-				"x": 1056,
-				"y": 200
-			}
-		},
-		{
-			"width": 210,
-			"height": 140,
-			"id": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0",
-			"position": {
-				"x": 806,
-				"y": 195
-			},
-			"parentId": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
-			"type": "when",
-			"data": {
-				"id": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0",
-				"type": "Agama-when-Node",
+				"id": "Agama-assignment-Node-fc0ffaca-f370-4afe-bba7-030579184fec",
+				"type": "Agama-assignment-Node",
 				"parentId": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
 				"whenCondition": "WhenFalse",
 				"inRepeatBlock": false,
 				"inIterateBlock": false,
 				"position": {
-					"x": 806,
-					"y": 195
+					"x": 742,
+					"y": 172
 				},
 				"agamaData": {
-					"id": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0",
+					"id": "Agama-assignment-Node-fc0ffaca-f370-4afe-bba7-030579184fec",
 					"parentId": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
-					"type": "Agama-when-Node",
-					"conditions": [
+					"type": "Agama-assignment-Node",
+					"displayName": "",
+					"hasComment": true,
+					"comment": "",
+					"whenCondition": "WhenFalse",
+					"inRepeatBlock": false,
+					"inIterateBlock": false,
+					"assignments": [
 						{
-							"variable": "sd",
-							"operator": "is",
-							"dataValue": "sd",
-							"combinator": "none"
+							"variableTypeCheck": false,
+							"assignmentExpression": "{\"one\":\"one\", \"second\":\"second\",\"third\":\"third\"}",
+							"assignedVariableName": "user"
 						}
 					],
-					"hasComment": true,
-					"inRepeatBlock": false
-				},
-				"handles": [
-					"Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0.FAILURE",
-					"Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0.SUCCESS"
-				]
+					"nodeIcon": "material-symbols:equal"
+				}
 			},
-			"selected": false,
+			"selected": true,
+			"dragging": false,
 			"positionAbsolute": {
-				"x": 806,
-				"y": 195
-			},
-			"dragging": false
+				"x": 742,
+				"y": 172
+			}
 		},
 		{
 			"width": 170,
@@ -303,6 +254,23 @@
 				"fillOpacity": 0.7
 			},
 			"sourceHandle": "Agama-when-Node-82e509f5-5997-46c7-85ff-510c95b728c0.FAILURE"
+		},
+		{
+			"id": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba-Agama-assignment-Node-fc0ffaca-f370-4afe-bba7-030579184fec-137b3fd0-62e6-4a1a-a702-da8669e0ef83",
+			"type": "straight",
+			"source": "Agama-call-Node-f74eb904-9c2e-42e5-98cc-414d6577f9ba",
+			"target": "Agama-assignment-Node-fc0ffaca-f370-4afe-bba7-030579184fec",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
 		}
 	],
 	"viewport": {
