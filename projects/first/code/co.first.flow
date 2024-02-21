@@ -3,5 +3,4 @@ Flow co.first
 // info log
 Log "@info info"
 res = Call java.lang#parseInt 
-When sd is sd
-When sd is dsd
+user = {"one":"one", "second":"second","third":"third"}
