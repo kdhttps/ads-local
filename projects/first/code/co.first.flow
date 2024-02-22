@@ -2,5 +2,5 @@ Flow co.first
      Basepath ""
 // info log
 Log "@info info"
-res = Call java.lang#parseInt 
+res = Call res parseInt 
 RRF "index.ftlh" 
