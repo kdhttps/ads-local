@@ -1,2 +1,9 @@
 Flow org.gluu.gasmyr.testing
      Basepath ""
+Log "@info zzzzzzzzzzzzzzzzz"
+When ip is true
+     Log "@info ssssssssss"
+Call Utils#fake 
+When loc is "Doul"
+     Log "@info dddddddddddd"
+Log "@info deeee"
