@@ -34,9 +34,10 @@
 					"nodeIcon": "ph:globe-simple",
 					"templatePath": "index.ftlh",
 					"asssignedVariableName": ""
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 742,
@@ -72,9 +73,9 @@
 					"comment": "",
 					"javaClassName": "java.lang",
 					"javaMethodName": "parseInt",
-					"javaVariableName": "",
+					"javaVariableName": "res",
 					"exceptionVariableField": "",
-					"callType": "Call static method",
+					"callType": "Call method on instance",
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"inIterateBlock": false,
@@ -88,7 +89,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 542,
 				"y": 172
