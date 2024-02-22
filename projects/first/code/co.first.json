@@ -5,8 +5,8 @@
 			"height": 124,
 			"id": "Agama-rrf-Node-a85fb477-83bd-4005-a177-0c64513988c6",
 			"position": {
-				"x": 742,
-				"y": 172
+				"x": 781,
+				"y": 193
 			},
 			"type": "rrf",
 			"data": {
@@ -17,8 +17,8 @@
 				"inRepeatBlock": false,
 				"inIterateBlock": false,
 				"position": {
-					"x": 742,
-					"y": 172
+					"x": 781,
+					"y": 193
 				},
 				"agamaData": {
 					"id": "Agama-rrf-Node-a85fb477-83bd-4005-a177-0c64513988c6",
@@ -40,8 +40,8 @@
 			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 742,
-				"y": 172
+				"x": 781,
+				"y": 193
 			}
 		},
 		{
@@ -73,7 +73,7 @@
 					"comment": "",
 					"javaClassName": "java.lang",
 					"javaMethodName": "parseInt",
-					"javaVariableName": "res",
+					"javaVariableName": "resss",
 					"exceptionVariableField": "",
 					"callType": "Call method on instance",
 					"whenCondition": "WhenFalse",
@@ -101,8 +101,8 @@
 			"height": 124,
 			"id": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
 			"position": {
-				"x": 281,
-				"y": 147
+				"x": 284,
+				"y": 199
 			},
 			"type": "log",
 			"data": {
@@ -113,8 +113,8 @@
 				"inRepeatBlock": false,
 				"inIterateBlock": false,
 				"position": {
-					"x": 281,
-					"y": 147
+					"x": 284,
+					"y": 199
 				},
 				"agamaData": {
 					"id": "Agama-log-Node-7b1ab8f0-0658-410b-9948-0ecce7399419",
@@ -134,8 +134,8 @@
 			},
 			"selected": false,
 			"positionAbsolute": {
-				"x": 281,
-				"y": 147
+				"x": 284,
+				"y": 199
 			},
 			"dragging": false
 		},
@@ -271,8 +271,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": 112.80100079555325,
+		"y": -47.088087622546254,
+		"zoom": 0.8821209648885728
 	}
 }
