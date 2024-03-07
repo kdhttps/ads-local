@@ -1,5 +1,5 @@
 class Test {
     public static void main() {
-        int n = 10;
+        int n = 11;
     }
 }
