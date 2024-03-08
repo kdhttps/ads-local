@@ -1,3 +1,3 @@
 class Riza {
-    int salary = 100000;
+    int salary = 200000;
 }
