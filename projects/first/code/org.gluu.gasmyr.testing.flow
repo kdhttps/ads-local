@@ -3,6 +3,8 @@ Flow org.gluu.gasmyr.testing
 Log "@info zzzzzzzzzzzzzzzzz"
 When ip is true
      Log "@info ssssssssss"
+Otherwise
+     Log "@info otherwise"
 Call Utils#fake 
 When loc is "Doul"
      Log "@info dddddddddddd"
