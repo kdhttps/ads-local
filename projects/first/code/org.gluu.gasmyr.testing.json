@@ -3,6 +3,48 @@
 		{
 			"width": 170,
 			"height": 124,
+			"id": "Agama-log-Node-352a9991-d5c4-4cb2-84d7-1a4a5c156f6d",
+			"position": {
+				"x": 625.015556577114,
+				"y": -147.67730677312656
+			},
+			"type": "log",
+			"data": {
+				"id": "Agama-log-Node-352a9991-d5c4-4cb2-84d7-1a4a5c156f6d",
+				"type": "Agama-log-Node",
+				"parentId": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee",
+				"whenCondition": "Otherwise",
+				"inRepeatBlock": false,
+				"inIterateBlock": false,
+				"position": {
+					"x": 625.015556577114,
+					"y": -147.67730677312656
+				},
+				"agamaData": {
+					"id": "Agama-log-Node-352a9991-d5c4-4cb2-84d7-1a4a5c156f6d",
+					"parentId": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee",
+					"type": "Agama-log-Node",
+					"displayName": "",
+					"hasComment": true,
+					"comment": "",
+					"whenCondition": "Otherwise",
+					"inRepeatBlock": false,
+					"inIterateBlock": false,
+					"logMessage": "\"otherwise\"",
+					"logLevel": "info",
+					"nodeIcon": "octicon:log-16"
+				}
+			},
+			"selected": true,
+			"positionAbsolute": {
+				"x": 625.015556577114,
+				"y": -147.67730677312656
+			},
+			"dragging": false
+		},
+		{
+			"width": 170,
+			"height": 124,
 			"id": "Agama-log-Node-eeb87476-e3a0-4c97-b6e6-aa18e9511037",
 			"position": {
 				"x": 1385.0530819791265,
@@ -540,11 +582,29 @@
 			"type": "default",
 			"source": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee",
 			"target": "Agama-call-Node-313d1149-8969-40c8-a440-59c0309ed856"
+		},
+		{
+			"id": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee-Agama-log-Node-352a9991-d5c4-4cb2-84d7-1a4a5c156f6d-740d4d55-81ce-4156-8f83-9000f60053df",
+			"type": "default",
+			"source": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee",
+			"target": "Agama-log-Node-352a9991-d5c4-4cb2-84d7-1a4a5c156f6d",
+			"label": "Otherwise",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#bee0d2",
+				"color": "#ffffff",
+				"fillOpacity": 0.7
+			},
+			"sourceHandle": "Agama-when-Node-6471e96f-9b17-490e-aa39-ee6839bc4fee.OTHERWISE"
 		}
 	],
 	"viewport": {
-		"x": 94,
-		"y": 65,
-		"zoom": 0.75
+		"x": 36.04355502466689,
+		"y": 177.12553375190544,
+		"zoom": 0.6095919380756724
 	}
 }
