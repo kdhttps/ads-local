@@ -15,7 +15,8 @@
         "noDirectLaunch": [],
         "configs": {
             "co.first": {},
-            "org.gluu.gasmyr.testing": {}
+            "org.gluu.gasmyr.testing": {},
+            "co.basic": {}
         },
         "name": "first"
     }
