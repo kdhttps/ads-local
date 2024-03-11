@@ -1,2 +1,10 @@
 Flow co.basic
      Basepath ""
+Log "@info testing when"
+a = 10
+When a is 10
+     Log "@info condition met"
+Otherwise
+     Log "@info condition not matched"
+Log "@info condition result"
+a = 12
