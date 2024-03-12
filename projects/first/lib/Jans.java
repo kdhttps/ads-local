@@ -1,3 +1,3 @@
 class Jans {
-    int n = 10;
+    int n = 12;
 }
