@@ -16,9 +16,10 @@
 				"position": {
 					"x": 1172.1666666666667,
 					"y": -10.583333333333314
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 1172.1666666666667,
 				"y": -10.583333333333314
@@ -41,7 +42,8 @@
 				"position": {
 					"x": 522.8333333333335,
 					"y": 289.4166666666667
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -66,7 +68,8 @@
 				"position": {
 					"x": 898.8333333333335,
 					"y": -143.91666666666663
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -564,8 +567,8 @@
 		}
 	],
 	"viewport": {
-		"x": 64,
-		"y": 193,
-		"zoom": 0.75
+		"x": 58.64414978498476,
+		"y": 190.713137264711,
+		"zoom": 0.8562857311303885
 	}
 }
