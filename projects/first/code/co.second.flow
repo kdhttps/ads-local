@@ -1,2 +1,7 @@
 Flow co.second
      Basepath ""
+Log "@info log"
+Repeat 3 times max
+     Quit When a is true
+     Log "@info in"
+Log "@info info"
