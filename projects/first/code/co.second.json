@@ -33,7 +33,8 @@
 					"logMessage": "\"info\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -73,7 +74,8 @@
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded",
 					"maxIteration": "3",
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -115,7 +117,8 @@
 					"logMessage": "\"log\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -198,7 +201,8 @@
 					"valueField": "true",
 					"conditionInputField": "is",
 					"nodeIcon": "material-symbols:pip-exit-outline-rounded"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"positionAbsolute": {
@@ -243,7 +247,8 @@
 					"position": {
 						"x": 793.6666666666667
 					}
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
