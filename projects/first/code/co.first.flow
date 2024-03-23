@@ -2,5 +2,9 @@ Flow co.first
      Basepath ""
 // info log
 Log "@info info"
-res = Call res parseInt 
+res = Call resss parseInt 
 RRF "index.ftlh" 
+Repeat 3 times max
+     Log "@info in"
+     Quit When res is true
+Log "@info out"
