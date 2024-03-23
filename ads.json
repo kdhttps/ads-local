@@ -16,7 +16,8 @@
         "configs": {
             "co.first": {},
             "org.gluu.gasmyr.testing": {},
-            "co.basic": {}
+            "co.basic": {},
+            "co.second": {}
         },
         "name": "first"
     }
