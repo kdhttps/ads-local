@@ -58,7 +58,7 @@
                     "openid_configuration_endpoint": "https://test2.com",
                     "tokens_metadata": {
                         "access_tokens": {
-                            "trusted": true,
+                            "trusted": false,
                             "principal_identifier": "jti",
                             "user_id": "jti",
                             "role_mapping": "jti",
@@ -67,7 +67,7 @@
                             }
                         },
                         "id_tokens": {
-                            "trusted": false,
+                            "trusted": true,
                             "principal_identifier": "",
                             "user_id": "",
                             "role_mapping": "",
