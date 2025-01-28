@@ -16,7 +16,9 @@
                             "principal_identifier": "jti",
                             "user_id": "jti",
                             "role_mapping": "jti",
-                            "claim_mapping": {}
+                            "claim_mapping": {
+                                "jti": 1
+                            }
                         },
                         "id_tokens": {
                             "trusted": false,
@@ -40,10 +42,12 @@
                             "claim_mapping": {}
                         },
                         "userToken": {
-                            "user_id": "uid",
+                            "user_id": "uuid",
                             "role_mapping": "uid",
                             "principal_identifier": "uid",
-                            "claim_mapping": {"uid": 1},
+                            "claim_mapping": {
+                                "uuid": 1
+                            },
                             "trusted": true
                         }
                     }
