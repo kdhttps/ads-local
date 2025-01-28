@@ -43,7 +43,7 @@
                             "user_id": "uid",
                             "role_mapping": "uid",
                             "principal_identifier": "uid",
-                            "claim_mapping": "{\n\"uid\": 1\n}",
+                            "claim_mapping": {"uid": 1},
                             "trusted": true
                         }
                     }
