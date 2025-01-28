@@ -103,7 +103,7 @@
                             "claim_mapping": {
                                 "uuid2": 2
                             },
-                            "trusted": true
+                            "trusted": false
                         },
                         "user_token3": {
                             "user_id": "uuid3",
