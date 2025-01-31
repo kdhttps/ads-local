@@ -6,52 +6,6 @@
             "description": "first",
             "policies": {},
             "trusted_issuers": {
-                "f83f26b5e84f848d7badc89a35ab36f54bb80521a635": {
-                    "name": "test",
-                    "description": "test",
-                    "openid_configuration_endpoint": "https://test.com",
-                    "tokens_metadata": {
-                        "access_tokens": {
-                            "trusted": true,
-                            "principal_identifier": "jti",
-                            "user_id": "jti",
-                            "role_mapping": "jti",
-                            "claim_mapping": {
-                                "jti": 1
-                            }
-                        },
-                        "id_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "userinfo_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "tx_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "userToken": {
-                            "user_id": "uuid",
-                            "role_mapping": "uid",
-                            "principal_identifier": "uid",
-                            "claim_mapping": {
-                                "uuid": 1
-                            },
-                            "trusted": true
-                        }
-                    }
-                },
                 "c9d22286cc69309d1b195d0501d7cc9aa1d546d0e9b0": {
                     "name": "test2",
                     "description": "test2",
