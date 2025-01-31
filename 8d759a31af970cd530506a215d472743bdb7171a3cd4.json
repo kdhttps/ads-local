@@ -47,6 +47,13 @@
                                 "uid": 1
                             },
                             "trusted": true
+                        },
+                        "user_token2": {
+                            "user_id": "uid2",
+                            "role_mapping": "uid2",
+                            "principal_identifier": "uid2",
+                            "claim_mapping": {},
+                            "trusted": true
                         }
                     }
                 }
