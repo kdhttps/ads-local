@@ -38,6 +38,15 @@
                             "user_id": "",
                             "role_mapping": "",
                             "claim_mapping": {}
+                        },
+                        "user_token": {
+                            "user_id": "uid",
+                            "role_mapping": "uid",
+                            "principal_identifier": "uid",
+                            "claim_mapping": {
+                                "uid": 1
+                            },
+                            "trusted": true
                         }
                     }
                 }
