@@ -19,12 +19,10 @@
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": false,
-                            "principal_identifier": "jti",
-                            "user_id": "jti",
+                            "principal_identifier": "",
+                            "user_id": "",
                             "role_mapping": "",
-                            "claim_mapping": {
-                                "jti": 1
-                            }
+                            "claim_mapping": {}
                         },
                         "id_tokens": {
                             "trusted": false,
