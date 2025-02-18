@@ -1,0 +1,2 @@
+@id("simple policy")
+permit(principal, action, resource);
