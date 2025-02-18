@@ -84,7 +84,7 @@
                 },
                 "780686e361ab52afc0b001842ab71dd37dfa10ace2cc": {
                     "name": "test3",
-                    "description": "test3",
+                    "description": "test333",
                     "openid_configuration_endpoint": "https://test3.com",
                     "tokens_metadata": {
                         "access_tokens": {
