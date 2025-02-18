@@ -1,2 +1,10 @@
-@id("simple policy")
-permit(principal, action, resource);
+@id("allow_one")
+permit(
+  principal is gatewayDemo::Workload,
+  action == gatewayDemo::Action::"GET",
+  resource is gatewayDemo::HTTP_Request
+)
+when {
+  principal has access_token.scope &&
+  principal.access_token.scope.contains("profile")
+};
