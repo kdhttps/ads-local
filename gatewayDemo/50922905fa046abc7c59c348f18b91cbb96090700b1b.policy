@@ -5,6 +5,5 @@ permit(
   resource is gatewayDemo::HTTP_Request
 )
 when {
-  principal has access_token.scope &&
-  principal.access_token.scope.contains("profile")
+  principal has access_token.scope
 };
