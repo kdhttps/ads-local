@@ -4,7 +4,13 @@
         "60c6bcd802e07029fbbfe773b508b076a5c5ae13925a": {
             "name": "gatewayDemo",
             "description": "gatewayDemo",
-            "policies": {},
+            "policies": {
+                "066b38f1b072072eaaae34344a8acc113788d32e6e96": {
+                    "description": "allow_one",
+                    "creation_date": "2025-02-24T08:37:40.986521",
+                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwKICBhY3Rpb24gPT0gZ2F0ZXdheURlbW86OkFjdGlvbjo6IkdFVCIsCiAgcmVzb3VyY2UgaXMgZ2F0ZXdheURlbW86OkhUVFBfUmVxdWVzdAopCndoZW4gewogIHByaW5jaXBhbCBoYXMgYWNjZXNzX3Rva2VuLnNjb3BlCn07"
+                }
+            },
             "trusted_issuers": {
                 "9ce742047386cd6633fa1cd66c88fff5892723924136": {
                     "name": "account",
