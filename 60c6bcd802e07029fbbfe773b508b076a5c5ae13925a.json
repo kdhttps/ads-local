@@ -50,7 +50,7 @@
                 "2de450124f836de4c6f54967e102f2b5c83bb8a503a1": {
                     "name": "test",
                     "description": "test",
-                    "openid_configuration_endpoint": "https:://test.com",
+                    "openid_configuration_endpoint": "https:://test.com/wellknow/sds",
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": false,
