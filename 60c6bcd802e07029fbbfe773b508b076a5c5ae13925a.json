@@ -4,13 +4,7 @@
         "60c6bcd802e07029fbbfe773b508b076a5c5ae13925a": {
             "name": "gatewayDemo",
             "description": "gatewayDemo",
-            "policies": {
-                "50922905fa046abc7c59c348f18b91cbb96090700b1b": {
-                    "description": "allow_one",
-                    "creation_date": "2025-02-18T07:02:29.655557",
-                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwKICBhY3Rpb24gPT0gZ2F0ZXdheURlbW86OkFjdGlvbjo6IkdFVCIsCiAgcmVzb3VyY2UgaXMgZ2F0ZXdheURlbW86OkhUVFBfUmVxdWVzdAopCndoZW4gewogIHByaW5jaXBhbCBoYXMgYWNjZXNzX3Rva2VuLnNjb3BlCn07"
-                }
-            },
+            "policies": {},
             "trusted_issuers": {
                 "9ce742047386cd6633fa1cd66c88fff5892723924136": {
                     "name": "account",
