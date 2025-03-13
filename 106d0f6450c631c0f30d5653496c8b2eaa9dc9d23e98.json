@@ -9,6 +9,11 @@
                     "description": "AdminPerformAnyOperationOnResource",
                     "creation_date": "2025-03-13T14:11:35.494386",
                     "policy_content": "QGlkKCJBZG1pblBlcmZvcm1BbnlPcGVyYXRpb25PblJlc291cmNlIikKcGVybWl0KAogIHByaW5jaXBhbCBpcyBKYW5zOjpVc2VyLAogIGFjdGlvbiwKICByZXNvdXJjZQopIHdoZW4gewogIHByaW5jaXBhbCBoYXMgaWRfdG9rZW4ucm9sZSAmJgogIHByaW5jaXBhbC5pZF90b2tlbi5yb2xlLmNvbnRhaW5zKCJhZG1pbiIpCn07Cg=="
+                },
+                "496cd298ed1b297afecb6c8deee7f3c06e4e991691db": {
+                    "description": "ManagerCanAddProject",
+                    "creation_date": "2025-03-13T14:27:38.174501",
+                    "policy_content": "QGlkKCJNYW5hZ2VyQ2FuQWRkUHJvamVjdCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJXcml0ZSJdLAogIHJlc291cmNlCikgd2hlbiB7CiAgcHJpbmNpcGFsIGhhcyBpZF90b2tlbi5yb2xlICYmCiAgcHJpbmNpcGFsLmlkX3Rva2VuLnJvbGUuY29udGFpbnMoIm1hbmFnZXIiKQp9Owo="
                 }
             },
             "trusted_issuers": {},
