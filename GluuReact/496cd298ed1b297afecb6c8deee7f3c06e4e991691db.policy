@@ -1,0 +1,9 @@
+@id("ManagerCanAddProject")
+permit (
+  principal is Jans::User,
+  action in [Jans::Action::"Write"],
+  resource
+) when {
+  principal has id_token.role &&
+  principal.id_token.role.contains("manager")
+};
