@@ -41,23 +41,6 @@
                             "principal_mapping": [
                                 "Jans::User"
                             ]
-                        },
-                        "userinfo_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Userinfo_token",
-                            "user_id": "sub",
-                            "token_id": "jti",
-                            "role_mapping": "role",
-                            "claim_mapping": {},
-                            "principal_mapping": [
-                                "Jans::User"
-                            ]
-                        },
-                        "tx_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Access_token",
-                            "user_id": "sub",
-                            "token_id": "jti"
                         }
                     }
                 }
