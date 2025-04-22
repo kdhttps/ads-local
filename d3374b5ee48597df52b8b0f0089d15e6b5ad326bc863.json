@@ -4,7 +4,13 @@
         "d3374b5ee48597df52b8b0f0089d15e6b5ad326bc863": {
             "name": "second",
             "description": "second",
-            "policies": {},
+            "policies": {
+                "efa18938f0203f27642390ee4b5698f7db08cf6556d9": {
+                    "description": "adminrole",
+                    "creation_date": "2025-04-22T08:38:18.992045",
+                    "policy_content": "QGlkKCJhZG1pbnJvbGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                }
+            },
             "trusted_issuers": {
                 "f0a0db888f158a5b269a7f9ece28b0bdb9c9ba3a697b": {
                     "name": "test",
