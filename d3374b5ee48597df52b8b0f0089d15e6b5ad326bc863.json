@@ -14,6 +14,11 @@
                     "description": "managerrole",
                     "creation_date": "2025-04-22T08:43:16.057952",
                     "policy_content": "QGlkKCJtYW5hZ2Vycm9sZSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                },
+                "7ff699caa361cb86ee58216858e23a201822e2570ed6": {
+                    "description": "employeerole",
+                    "creation_date": "2025-04-22T08:43:42.231871",
+                    "policy_content": "QGlkKCJlbXBsb3llZXJvbGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {
