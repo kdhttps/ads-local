@@ -1,0 +1,6 @@
+@id("managerrole")
+permit (
+  principal,
+  action,
+  resource
+);
