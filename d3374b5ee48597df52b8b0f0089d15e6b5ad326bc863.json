@@ -9,11 +9,6 @@
                     "description": "adminrole",
                     "creation_date": "2025-04-22T08:38:18.992045",
                     "policy_content": "QGlkKCJhZG1pbnJvbGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
-                },
-                "ae2f3b034e73e5d6466fb170058e0a1ee06b2cc377ff": {
-                    "description": "managerole",
-                    "creation_date": "2025-04-22T08:39:24.637810",
-                    "policy_content": "QGlkKCJtYW5hZ2Vyb2xlIikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {
