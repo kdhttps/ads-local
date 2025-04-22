@@ -19,6 +19,11 @@
                     "description": "employeerole",
                     "creation_date": "2025-04-22T08:43:42.231871",
                     "policy_content": "QGlkKCJlbXBsb3llZXJvbGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                },
+                "4248c2986aa6a73f58189cd08c295b62a8f8f04b945a": {
+                    "description": "memberrole",
+                    "creation_date": "2025-04-22T13:08:58.447476",
+                    "policy_content": "QGlkKCJtZW1iZXJyb2xlIikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {
