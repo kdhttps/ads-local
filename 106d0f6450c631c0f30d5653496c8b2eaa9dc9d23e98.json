@@ -14,6 +14,11 @@
                     "description": "ManagerCanAddProject",
                     "creation_date": "2025-03-13T14:27:38.174501",
                     "policy_content": "QGlkKCJNYW5hZ2VyQ2FuQWRkUHJvamVjdCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJXcml0ZSJdLAogIHJlc291cmNlCikgd2hlbiB7CiAgcHJpbmNpcGFsIGhhcyBpZF90b2tlbi5yb2xlICYmCiAgcHJpbmNpcGFsLmlkX3Rva2VuLnJvbGUuY29udGFpbnMoIm1hbmFnZXIiKQp9Owo="
+                },
+                "017be100a9ce1f1a836e336ab75a9e81605ac8360d70": {
+                    "description": "adminadmin",
+                    "creation_date": "2025-05-14T09:00:24.111207",
+                    "policy_content": "QGlkKCJhZG1pbmFkbWluIikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {
