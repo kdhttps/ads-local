@@ -1,0 +1,6 @@
+@id("adminadmin")
+permit (
+  principal,
+  action,
+  resource
+);
