@@ -1,6 +1,0 @@
-@id("AdminAccess")
-permit (
-  principal,
-  action,
-  resource
-);
