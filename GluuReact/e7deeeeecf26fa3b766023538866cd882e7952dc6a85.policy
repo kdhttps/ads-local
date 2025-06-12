@@ -1,9 +1,0 @@
-@id("AdminPerformAnyOperationOnResource")
-permit(
-  principal is Jans::User,
-  action,
-  resource
-) when {
-  principal has id_token.role &&
-  principal.id_token.role.contains("admin")
-};
