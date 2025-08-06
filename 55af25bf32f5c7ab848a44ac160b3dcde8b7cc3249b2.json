@@ -6,9 +6,9 @@
             "description": "third",
             "policies": {
                 "e38417990d6560091e8a088da98515b310c0271fcde6": {
-                    "description": "AdminAllow",
+                    "description": "AdminAow",
                     "creation_date": "2025-08-06T06:48:53.871465",
-                    "policy_content": "QGlkKCJBZG1pbkFsbG93IikKcGVybWl0ICgKICBwcmluY2lwYWwsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
+                    "policy_content": "QGlkKCJBZG1pbkFvdyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
