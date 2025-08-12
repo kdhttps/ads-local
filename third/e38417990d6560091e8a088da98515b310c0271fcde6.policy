@@ -1,0 +1,6 @@
+@id("AdminAow")
+permit (
+  principal,
+  action,
+  resource
+);

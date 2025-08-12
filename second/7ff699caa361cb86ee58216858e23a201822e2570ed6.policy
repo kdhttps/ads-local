@@ -1,0 +1,6 @@
+@id("employeerole")
+permit (
+  principal,
+  action,
+  resource
+);

@@ -1,0 +1,6 @@
+@id("memberrole")
+permit (
+  principal,
+  action,
+  resource
+);
